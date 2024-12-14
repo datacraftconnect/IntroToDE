@@ -1,0 +1,9 @@
+{
+	"name": "10MinsAzureADF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75900379-5669-4ee9-b229-e05bdf932276",
+		"tenantId": "490a8197-7b83-4f10-89b9-83189be3835e"
+	}
+}
