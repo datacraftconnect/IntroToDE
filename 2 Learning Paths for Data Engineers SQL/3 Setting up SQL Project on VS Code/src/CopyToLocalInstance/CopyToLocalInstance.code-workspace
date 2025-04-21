@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CopyToLocalInstance",
+			"path": "."
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"DatabaseProjectAdventureWorks2019.sqlproj"
+		]
+	}
+}

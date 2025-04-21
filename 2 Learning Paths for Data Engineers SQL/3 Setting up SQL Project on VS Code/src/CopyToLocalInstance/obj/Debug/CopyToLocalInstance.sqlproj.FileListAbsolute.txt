@@ -1,0 +1,11 @@
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\bin\Debug\CopyToLocalInstance.dacpac
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\bin\Debug\CopyToLocalInstance.dll
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\bin\Debug\CopyToLocalInstance.pdb
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\obj\Debug\CopyToLocalInstance.sqlproj.AssemblyReference.cache
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\obj\Debug\CopyToLocalInstance.GeneratedMSBuildEditorConfig.editorconfig
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\obj\Debug\Model.xml
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\obj\Debug\refactor.xml
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\obj\Debug\postdeploy.sql
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\obj\Debug\predeploy.sql
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\obj\Debug\CopyToLocalInstance.dll
+D:\LocalDevelopment\SQLProject\CopyToLocalInstance\obj\Debug\CopyToLocalInstance.pdb
